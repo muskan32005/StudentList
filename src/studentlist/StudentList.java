@@ -4,6 +4,7 @@
  */
 package studentlist;
 //comment hi
+//parttime
 /**
  *
  * @author temporary user
